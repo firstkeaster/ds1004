@@ -1,15 +1,20 @@
 fs1520
-*   4fa04e2 9th commit (4th on testing).
+*   3127ca9 I merged finally
 |\  
-| * 9e14d3b 7th commit (5th on master).
-| *   fb44e71 6th commit (4th on master).
+| *   f58af5e Merge branch 'master' into testing I merged master with testing
 | |\  
-| * | 42ccf65 5th commit (3rd on master).
-* | | 2d63af2 8th commit (3rd on testing).
-| |/  
-|/|   
-* | 372a3ae 4th commit (2nd on testing).
+| * | f5b411b test 1 node 2
+* | |   8c3772c Merge branch 'testing2' I merged testing2 in merge
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 4239ae6 test2 node 1
+* | |   f15076d Merge branch 'testing' Yes,Merging testing
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * dc99ded test node 1
+* | 7108a44 main node 2
 |/  
-* 446e3f4 3rd commit (1st on testing).
-* 3c50110 2nd commit (2nd on master).
-* f195f0e 1st commit (1st on master).
+* 06690fd root node
